@@ -1,7 +1,7 @@
-## Hi, I'm [Aditya](https://xditya.me). Welcome to my GitHub Profile!
+## Hi, I'm [Amit](https://t.me/ur_amit_01). Welcome to my GitHub Profile!
 
-[![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views&style=for-the-badge)](https://github.com/xditya)
-- 💫 I’m currently working on [Ultroid](https://github.com/TeamUltroid)
+[![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views&style=for-the-badge)](https://github.com/Sparklingmind46)
+- 💫 I’m currently working on [PDF Genie](https://t.me/PDF_Genie_robot)
 - 📫 [Connect with me](#-connect-with-me).
 - ⚡ Always ready to help!
 
@@ -35,7 +35,7 @@
 - [Deploy Ultroid to RDP | Windows Server | Windows PC | Telegram UserBot #TheUltroid](https://www.youtube.com/watch?v=Lb6UKuDcsJE)
 - [Deploy Telegram Channel Join Request Approver Bot | ChannelActionsBot | DenoDeploy](https://www.youtube.com/watch?v=hjxfJtk5ZWs)
 <!-- YouTube:END -->
-> ➕ [View More...](https://youtube.com/xditya)
+> ➕ [View More...](https://youtube.com/ur_amit_01)
 
 ---
 
